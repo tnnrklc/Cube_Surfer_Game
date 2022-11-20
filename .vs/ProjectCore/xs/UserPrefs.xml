@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{22BF2367-9403-4D19-DAFA-9E978F391AAA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerMotion/PlayerMover.cs">
+    <Files>
+      <File FileName="Assets/Script/Gem/Gem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Detector/Detector.cs" Line="31" Column="1" />
+      <File FileName="Assets/Script/PlayerMotion/PlayerMover.cs" Line="12" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectCore" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="Cube" expanded="True" />
+                <Node name="Detector" expanded="True" />
+                <Node name="Gem" expanded="True" />
+                <Node name="Player" expanded="True" />
+                <Node name="PlayerCubeManager" expanded="True" />
+                <Node name="PlayerMotion" expanded="True">
+                  <Node name="PlayerMover.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="81685471-63c1-49c5-aa86-f6b3de117b32" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

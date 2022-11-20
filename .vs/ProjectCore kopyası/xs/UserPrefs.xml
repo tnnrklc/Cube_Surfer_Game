@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{0F61BD62-44D3-6319-2FBF-27417B7DF092}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Script/Detector/Detector.cs" Line="101" Column="21" />
+      <File FileName="Assets/Script/Player/PlayerBehoviour.cs" />
+      <File FileName="Assets/Script/PlayerCubeManager/PlayerCubeManager.cs" />
+      <File FileName="Assets/Script/PlayerMotion/PlayerMover.cs" />
+      <File FileName="Assets/Script/PlayerMotion/SwerveInputSystem.cs" />
+      <File FileName="Assets/Script/PlayerMotion/SwerveMovement.cs" />
+      <File FileName="Assets/Script/GameManager.cs" Line="47" Column="39" />
+      <File FileName="Assets/Script/Gem/Gem.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectCore kopyası" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Script" expanded="True">
+                <Node name="Detector" expanded="True" />
+                <Node name="Gem" expanded="True" />
+                <Node name="Player" expanded="True" />
+                <Node name="PlayerCubeManager" expanded="True" />
+                <Node name="PlayerMotion" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a24c1706-70bd-472e-9ef7-8b8573d045b5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
